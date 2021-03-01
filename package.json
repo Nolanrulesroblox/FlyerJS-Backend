@@ -1,0 +1,21 @@
+{
+  "name": "flyer-offsite",
+  "version": "1.0.0",
+  "description": "flyer js backend offsite and database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "NRRINC Media",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0",
+    "nodejs": "0.0.0",
+    "require": "^2.4.20"
+  }
+}
